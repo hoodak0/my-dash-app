@@ -1,7 +1,7 @@
 dash
 dash-bootstrap-components
 yfinance
-pypfopt
+PyPortfolioOpt==1.5.5
 plotly
 pandas
 numpy
