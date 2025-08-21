@@ -5,3 +5,4 @@ pypfopt
 plotly
 pandas
 numpy
+gunicorn
