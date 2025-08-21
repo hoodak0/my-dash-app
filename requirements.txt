@@ -1,8 +1,7 @@
 dash
 dash-bootstrap-components
+yfinance
+pypfopt
 plotly
 pandas
 numpy
-yfinance
-PyPortfolioOpt
-gunicorn
