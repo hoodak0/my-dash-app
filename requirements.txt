@@ -5,4 +5,5 @@ PyPortfolioOpt==1.5.5
 plotly
 pandas
 numpy
+scikit-learn>=1.3
 gunicorn
